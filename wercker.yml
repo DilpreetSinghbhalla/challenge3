@@ -17,7 +17,7 @@ box: python:2.7
     # https://devcenter.wercker.com/administration/services/examples/mongodb/
 
 # This is the build pipeline. Pipelines are the core of wercker
-# Read more about pipelines on our dev center..
+# Read more about pipelines on our dev center
 # https://devcenter.wercker.com/development/pipelines/
 build:
   # The steps that will be executed on build
