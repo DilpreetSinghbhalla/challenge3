@@ -1,2 +1,2 @@
 #application sample code
-echo "Hello word"
+print "Hello word"
